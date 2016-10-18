@@ -1,0 +1,1 @@
+Will implement queues with linked lists since there is no fixed-sized arrays in python
